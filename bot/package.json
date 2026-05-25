@@ -18,6 +18,8 @@
     "redis": "^5.12.1"
   },
   "devDependencies": {
-    "@types/node-telegram-bot-api": "^0.64.14"
+    "@types/node-telegram-bot-api": "^0.64.14" , 
+     "typescript": "^5.8.3",
+    "@types/node": "^24.3.0"
   }
 }

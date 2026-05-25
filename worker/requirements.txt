@@ -1,0 +1,3 @@
+redis
+yt-dlp
+imageio-ffmpeg

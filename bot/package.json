@@ -15,6 +15,7 @@
 
   "dependencies": {
     "node-telegram-bot-api": "^0.67.0",
+    "dotenv": "^16.6.1",
     "redis": "^5.12.1"
   },
   "devDependencies": {
